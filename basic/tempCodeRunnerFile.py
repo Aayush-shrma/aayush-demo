@@ -1,0 +1,1 @@
+print(f"The ans to the first class is :{obj.add()}")
